@@ -1,0 +1,17 @@
+{
+  "name": "mydemo",
+  "version": "1.0.0",
+  "description": "Login demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varsha Katkar",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "angular-route": "^1.7.8",
+    "http-server": "^0.11.1",
+    "local": "^0.3.3"
+  }
+}
